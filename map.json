@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/teekers.fr\/categorie\/mode-femme-2?menu%5Bteekers_cities.city_slug%5D=&menu%5Badvertiser_name%5D=Au%2041%20rue%20des%20granges&page=1"
+                 "value":"https:\/\/www.google.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/teekers.fr\/categorie\/alimentation-3?menu%5Badvertiser_name%5D=%C3%89PICERIE%20CLAUDET&page=1"
+                 "value":"https:\/\/www.google.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.google.fr"
+                 "value":"https:\/\/www.google.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
